@@ -20,7 +20,7 @@ sleep 15
 #update repo
 git add worlds 
 git add -u; 
-git commit -m "`date +'%Y-%m-%d'` @ `date +'%H:%M'`";
+git commit -m "worlds: `date +'%Y-%m-%d'` @ `date +'%H:%M'`";
 
 #return to starting dir
 popd > /dev/null
