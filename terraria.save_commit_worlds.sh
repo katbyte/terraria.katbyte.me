@@ -15,6 +15,7 @@ cd "$HOME"
 
 #send save command to server
 screen -r $SCREEN -p 0 -X stuff "save^M"
+echo saving worlds...
 sleep 15
 
 #update repo
