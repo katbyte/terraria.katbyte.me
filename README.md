@@ -1,5 +1,7 @@
 Files for terraria server @ katbyte.me.
 
-Includes worlds and management scripts.
+Includes worlds and start/stop/save/init.d scripts.
 
-TDSM & logs not included.
+TDSM included as a submodual.
+
+log files not tracked.
