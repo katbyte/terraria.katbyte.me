@@ -1,4 +1,0 @@
-[submodule "tdsm"]
-	path = tdsm
-	url = https://github.com/DeathCradle/Terraria-s-Dedicated-Server-Mod.git
-	branch = master
