@@ -10,4 +10,3 @@ SCREEN=terraria
 #note: don't forget the newline: ^M
 echo "stopping screen '$SCREEN'"
 screen -r $SCREEN -p 0 -X stuff "exit^M"
-screen -r $SCREEN -p 0 -X stuff "exit^M"

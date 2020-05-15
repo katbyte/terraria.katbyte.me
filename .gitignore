@@ -1,7 +1,4 @@
 
-#ignore tdsm files for now
-tdsm
-
 #don't commit logs
 logs/*
 
