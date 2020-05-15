@@ -1,0 +1,9 @@
+
+#ignore tdsm files for now
+tdsm
+
+#don't commit logs
+logs/*
+
+#screen creats a .bash_history file, don't commit it
+.bash_history
