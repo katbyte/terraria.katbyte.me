@@ -4,3 +4,6 @@ logs/*
 
 #screen creats a .bash_history file, don't commit it
 .bash_history
+.terraform
+.idea
+.DS_Store
