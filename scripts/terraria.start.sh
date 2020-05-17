@@ -7,7 +7,7 @@
 #paths
 HOME=/home/terraria
 REPO=$HOME/terraria.katbyte.me
-PATH_SERVER=$REPO/server/1401
+PATH_SERVER=$REPO/server/1402
 PATH_LOGS=$HOME/logs
 PATH_WORLDS=$REPO/worlds
 
