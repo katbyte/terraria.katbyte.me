@@ -15,7 +15,7 @@ PATH_WORLDS=$REPO/worlds
 WORLD=deep,_deeper,_deepest.wld
 
 #cmd to start the server
-CMD="$PATH_SERVER/TerrariaServer.bin.x86_64 -port 7777 -players 32 -pass digdiggerdiggest -motd \"beware hidden ice\" -world $PATH_WORLDS/$WORLD -secure -noupnp"
+CMD="$PATH_SERVER/TerrariaServer.bin.x86_64 -port 7777 -players 32 -pass digdiggerdiggest -motd \"beware hidden ice\" -world $PATH_WORLDS/$WORLD -secure"
 
 #screen name
 SCREEN=terraria
